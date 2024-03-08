@@ -22,6 +22,7 @@ The images and sounds were generated from a [custom fork](https://github.com/sam
 - Assuming you already have a [repo for hosting](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 - You'll also need to enable the github pages: Settings > Actions (under "Code and Automation") and direct it to the `/root` folder as depicted below. 
 <img width="677" alt="image" src="https://github.com/nathanww/SoundspindleExperiment/assets/10756682/39185965-4b44-416e-b670-26985c5e36b6">
+
 - Then navigate to `https://<your-username>.github.io/SoundspindleExperiment/?block=0&pid=1111&sound=1` where it should be hosted. 
 
 
